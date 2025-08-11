@@ -11,11 +11,6 @@ Aplikasi desktop yang dibangun dengan JavaFX dan Maven untuk mengelola proses bi
 * **Pencarian Data:** Fitur pencarian untuk menemukan data tenda atau pelanggan dengan cepat.
 * **Antarmuka Intuitif:** Dibangun dengan JavaFX untuk pengalaman pengguna yang responsif di desktop.
 
-# 📸 Tangkapan Layar (Screenshot)
-*Sangat disarankan untuk menambahkan beberapa gambar screenshot aplikasi Anda di sini untuk memberikan gambaran visual.*
-
-![Screenshot Halaman Utama](link-ke-screenshot-1.png)
-![Screenshot Manajemen Tenda](link-ke-screenshot-2.png)
 
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa Pemrograman:** [Java](https://www.java.com/)
